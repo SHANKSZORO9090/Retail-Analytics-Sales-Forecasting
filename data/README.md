@@ -7,6 +7,7 @@ The dataset was provided as part of a Data Science internship at Unlox Academy
 and is not publicly shareable due to usage restrictions.
 
 Key features include:
+
 • Date
 
 • Store ID
