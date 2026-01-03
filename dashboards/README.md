@@ -4,11 +4,11 @@ This folder contains the final Excel dashboards created for the
 Retail Analytics & Sales Forecasting project.
 
 ## Files
-• Sales_Forecast.xlsx  
-  - Interactive dashboard showing KPIs, monthly sales trends,
-    and SARIMAX-based revenue forecasts
 
-• Store_Clusters.xlsx  
+- Dashboard
+
+  - Interactive dashboard showing KPIs, monthly sales trends,
+    and SARIMAX-based revenue forecasts 
   - Dashboard visualizing store segmentation results
     obtained using K-Means clustering
 
