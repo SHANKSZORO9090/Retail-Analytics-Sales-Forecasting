@@ -1,4 +1,4 @@
-Dataset Information
+# Dataset Information
 
 The dataset used in this project contains multi-store retail sales data
 from January 2023 to December 2024 (~73,000 records).
