@@ -4,7 +4,7 @@ This folder contains the final Excel dashboard for the
 Retail Analytics & Sales Forecasting project.
 
 ## Files
-• Retail_Sales_Dashboard.xlsx  
+• Dashboard.xlsx  
   - Consolidated dashboard presenting KPIs, sales trends,
     and revenue forecasts derived from historical retail data
 
